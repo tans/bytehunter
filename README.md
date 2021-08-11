@@ -2,6 +2,11 @@
 
 ## 《字节猎人》GRPG Description
 
+
+![image](https://user-images.githubusercontent.com/543287/129016595-8b50461f-1b5a-4ae8-9125-5a4005d1851b.png)
+
+
+
 《字节猎人》是一个聊天室的文字rpg游戏， 本项目为游戏设定和方案的讨论。
 
 群成员通过【出战】迎击聊天室中出现的怪物，获得战力提升， 同时提升群战力。
@@ -34,6 +39,13 @@
 群聊战力排行
 
 个人战力排行
+
+
+
+![image](https://user-images.githubusercontent.com/543287/129016673-235b3206-6856-4bfc-9a21-95e425564e09.png)
+
+
+
 
 ## 入群体验
 <img src="https://user-images.githubusercontent.com/543287/128971592-a54e6096-50f0-46e6-be9a-4c3b89939845.png" width="220px" />
