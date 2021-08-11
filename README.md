@@ -35,6 +35,6 @@
 个人战力排行
 
 
-![image](https://user-images.githubusercontent.com/543287/128971592-a54e6096-50f0-46e6-be9a-4c3b89939845.png)
+<img src="https://user-images.githubusercontent.com/543287/128971592-a54e6096-50f0-46e6-be9a-4c3b89939845.png" style="width:320px" />
 
 
