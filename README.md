@@ -34,7 +34,10 @@
 
 个人战力排行
 
+## 入群体验
+<img src="https://user-images.githubusercontent.com/543287/128971592-a54e6096-50f0-46e6-be9a-4c3b89939845.png" width="220px" />
 
-<img src="https://user-images.githubusercontent.com/543287/128971592-a54e6096-50f0-46e6-be9a-4c3b89939845.png" style="width:320px" />
+## 加机器人拉群冒险
+<img src="https://user-images.githubusercontent.com/543287/128972133-8648d2a5-e461-4382-85b8-c4428d36d3f6.png"  width="220px" />
 
 
