@@ -14,6 +14,7 @@
 
 ## Monster
 聊天室中出现的怪物
+
 ![image](https://user-images.githubusercontent.com/543287/129131248-58c67ffa-6045-4e63-82fb-417d99f5c550.png)
 
 `HP 击杀奖励 出现间隔`
@@ -28,7 +29,9 @@
 
 `战力值 击杀冷却周期 击杀次数 上次击杀`
 
-输出公式
+# 输出算法
+
+
 ```
 realack = (ack) ->
 	if ack > 1000000
